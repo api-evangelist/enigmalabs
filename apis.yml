@@ -1,9 +1,29 @@
 aid: enigmalabs
 name: Enigmalabs
-description: Enigmalabs is a company surfaced as a portfolio company of kindred-ventures and added to
-  the API Evangelist network as a stub for enrichment. This profile is a lead awaiting the enrichment
-  pipeline.
+description: >-
+  Enigma Labs operates a crowdsourced platform for reporting, tracking, and analyzing unidentified
+  aerial phenomena (UAP) and UFO sightings, positioning itself as a destination for UFO sighting
+  alerts and aerial intelligence. Through a mobile app (iOS and Google Play) and a web platform with
+  a map interface and sighting-submission flow, a global community of sky watchers contributes reports
+  that the company enriches with data science, machine-learning analysis, real-time alerts, and
+  historical context. Enigma Labs reports over 57,000 sightings, more than 570,000 sky watchers, and
+  around 2,000 high-signal UAP events, and has been featured by NBC News, PBS Nova, Scientific
+  American, The Guardian, and The New Yorker. It is a portfolio company of Kindred Ventures. No public
+  API, developer portal, or developer documentation was found during enrichment; this profile captures
+  the company's public web presence as a consumer-facing product rather than an API provider.
 url: https://raw.githubusercontent.com/api-evangelist/enigmalabs/refs/heads/main/apis.yml
+accessModel:
+  pricing: unknown
+  onboarding: unknown
+  trial: false
+  try_now: false
+  public: false
+  label: Unknown
+  confidence: low
+  source: []
+  generated: '2026-07-22'
+  method: derived
+image: https://enigmalabs.io/wordmark.svg
 x-type: company
 x-source: vc-portfolio
 x-backed-by:
@@ -12,9 +32,16 @@ x-tier: stub
 x-tier-reason: portfolio-lead
 specificationVersion: '0.20'
 created: '2026-07-17'
-modified: '2026-07-17'
+modified: '2026-07-19'
 tags:
 - Company
+- UAP
+- UFO
+- Aerial Intelligence
+- Crowdsourcing
+- Mobile App
+- Consumer
+- Data Science
 apis: []
 maintainers:
 - FN: Kin Lane
@@ -22,5 +49,22 @@ maintainers:
 - FN: APIs.json
   email: info@apis.io
 common:
+- type: DomainSecurity
+  url: security/enigmalabs-domain-security.yml
 - type: Website
   url: https://enigmalabs.io/
+- type: Blog
+  url: https://enigmalabs.io/blog
+- type: TermsOfService
+  url: https://enigmalabs.io/terms
+- type: PrivacyPolicy
+  url: https://enigmalabs.io/privacy
+- type: About
+  url: https://enigmalabs.io/about
+- type: Careers
+  url: https://enigmalabs.io/careers
+x-enrichment:
+  date: '2026-07-19'
+  status: backfilled
+  pass: local-v1
+  note: backfilled from .gitignore signal + verified work evidence
