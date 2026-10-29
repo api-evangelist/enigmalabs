@@ -64,6 +64,82 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-Enigmalabs is a company surfaced as a portfolio company of kindred-ventures and added to the API Evangelist network as a stub for enrichment. This profile is a lead awaiting the enrichment pipeline.
+Enigma Labs operates a crowdsourced platform for reporting, tracking, and analyzing unidentified aerial phenomena (UAP) and UFO sightings, positioning itself as a destination for UFO sighting alerts and aerial intelligence. Through a mobile app (iOS and Google Play) and a web platform with a map interface and sighting-submission flow, a global community of sky watchers contributes reports that the company enriches with data science, machine-learning analysis, real-time alerts, and historical context. Enigma Labs reports over 57,000 sightings, more than 570,000 sky watchers, and around 2,000 high-signal UAP events, and has been featured by NBC News, PBS Nova, Scientific American, The Guardian, and The New Yorker. It is a portfolio company of Kindred Ventures. No public API, developer portal, or developer documentation was found during enrichment; this profile captures the company's public web presence as a consumer-facing product rather than an API provider.
 
-Backed by: kindred-ventures — https://enigmalabs.io/
+**Areas:** Company · UAP · UFO · Aerial Intelligence · Crowdsourcing · Mobile App · Consumer · Data Science
+
+## Enigmalabs on APIs.io
+
+Everything profiled for Enigmalabs is published on APIs.io rather than in this repository. Start at the provider page — **[apis.io/providers/enigmalabs/](https://apis.io/providers/enigmalabs/)** — or go straight to one of the APIs or properties below.
+
+### Published properties
+
+Each property below is a page on APIs.io carrying the machine-readable artifact and what it says.
+
+#### Security (1)
+
+Authentication, trust centre, and vulnerability disclosure.
+
+- [Enigmalabs Domain Security](https://apis.io/security/enigmalabs/enigmalabs-domain-security/)
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://enigmalabs.io/)
+- [Blog](https://enigmalabs.io/blog)
+- [Terms of service](https://enigmalabs.io/terms)
+- [Privacy policy](https://enigmalabs.io/privacy)
+
+## API Evangelist rating
+
+**Kin Score 9.3** — minimal · rubric 0.24.0 · scored 2026-10-17
+
+| Facet | Score |
+|---|---|
+| Discoverability | 48.2 |
+| Contract quality | 0.0 |
+| Contract governance | 0.0 |
+| Operational transparency | 0.0 |
+| Developer ergonomics | 2.4 |
+| Access clarity | 21.1 |
+
+**Agent readiness 0.0** — human-only
+
+| Agent-readiness dimension | Result |
+|---|---|
+| Spec Presence | — |
+| Agentic Access | — |
+| Reversibility Documented | — |
+| MCP Server | — |
+| Auth Clarity | — |
+| Idempotency | — |
+| Error Semantics | — |
+| OpenAPI Examples | — |
+| Rate Limit Signal | — |
+| Event Surface Described | — |
+| Agent Skills | — |
+| Well Known Catalog | — |
+| Consent Identity | — |
+| Agent Card | — |
+| Dry Run Mode | — |
+| Delegated Identity | — |
+| Protected Resource Metadata | — |
+| Dynamic Client Registration | — |
+| Agentic Commerce | — |
+
+**Regulatory alignment 13.7** — Horizontal (data, software, accessibility, platform)
+
+The rubric is published at [github.com/api-evangelist/kin-score](https://github.com/api-evangelist/kin-score). The per-check breakdown behind these numbers — which checks were earned, partial or missed — along with score history and how this provider compares to its peers, is available at [apis.io/providers/enigmalabs/](https://apis.io/providers/enigmalabs/).
+
+## How this profile is made
+
+API Evangelist profiles a company's public API surface the way a developer would find it: the website, developer portal and documentation, the specifications it publishes, its public repositories, and its pricing, status and changelog pages. From that it derives the properties above — contracts split per API, workflows, schemas, collections, governance rules, plans and rate limits — and scores them against the published [Kin Score rubric](https://github.com/api-evangelist/kin-score).
+
+The artifacts are published on [APIs.io](https://apis.io), not in this repository. This repository is the public record for Enigmalabs: the place to say something is wrong, missing or out of date, and to ask for a re-score or a removal.
+
+## Open an issue
+
+- **Something about this listing** — a wrong description, a missing API, a stale artifact or a question about the rating: [open an issue on this repository](https://github.com/api-evangelist/enigmalabs/issues/new).
+- **A new API, or one that is not in the catalog yet** — [submit it on APIs.io](https://apis.io/add/).
+- **Anything else** — [the APIs.io inbox](https://github.com/api-search/inbox/issues/new) or [info@apievangelist.com](mailto:info@apievangelist.com).
